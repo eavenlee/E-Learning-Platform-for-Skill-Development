@@ -1,0 +1,26 @@
+{
+"name": "kil0-evelopment",
+"version": "1.0.0",
+"description": "This platform offers a curated collection of online courses and tutorials covering a wide range of skills and subjects, empowering learners to upskill and advance their careers at their own pace.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/eavenlee/E-Learning-Platform-for-Skill-Development.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "eavenlee",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
